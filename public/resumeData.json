@@ -151,6 +151,12 @@
         "url": "https://www.linkedin.com/posts/hstrejoluna_javascript-nodejs-express-activity-6847009281351536640-9hKa"
       },
       {
+        "title": "Hotel Gatsby",
+        "category": "Discovering GatsbyJS and DatoCMS",
+        "image": "p22.png",
+        "url": "https://hotelgatsbyhstrejoluna.netlify.app/"
+      },
+      {
         "title": "Budget Control",
         "category": "Budget control, see spendings and remaining budget",
         "image": "p21.png",
