@@ -173,17 +173,18 @@
         "url": "https://affectionate-engelbart-c56758.netlify.app/"
       },
       {
-        "title": "Natours",
-        "category": "Using SASS and basic CSS/HTML",
-        "image": "p14.png",
-        "url": "https://pensive-lichterman-42b193.netlify.app/"
-      },
-      {
         "title": "Trillo",
         "category": "Discovering the power of Flexbox",
         "image": "p12.png",
         "url": "https://wizardly-kare-619f6f.netlify.app/"
+      },
+      {
+        "title": "Natours",
+        "category": "Using SASS and basic CSS/HTML",
+        "image": "p14.png",
+        "url": "https://pensive-lichterman-42b193.netlify.app/"
       }
+     
     ]
   }
 }
