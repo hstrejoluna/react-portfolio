@@ -203,12 +203,12 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #fafafa;
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 140px;
+   height: 140px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
