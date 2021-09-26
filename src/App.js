@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React  from "react";
 import ReactGA from "react-ga";
 import "./App.css";
 import Header from "./Components/Header";
