@@ -1,12 +1,12 @@
 import React from "react";
 
-const Header = (props) => {
-  if (props.data) {
-    var name = props.data.name;
-    var occupation = props.data.occupation;
-    var description = props.data.description;
-    var city = props.data.address.city;
-    var networks = props.data.social.map(function (network) {
+const Header = ({data}) => {
+  if (data) {
+    var name = data.name;
+    var occupation = data.occupation;
+    var description = data.description;
+    var city = data.address.city;
+    var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
           <a href={network.url}>
