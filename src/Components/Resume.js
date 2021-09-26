@@ -1,8 +1,7 @@
 import React from "react";
 
-function Resume(props) {
+export default function Resume(props) {
   if (props.data) {
-    var skillmessage = props.data.skillmessage;
     var education = props.data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -25,15 +24,6 @@ function Resume(props) {
           </p>
           <p>{work.description}</p>
         </div>
-      );
-    });
-    var skills = props.data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();
-      return (
-        <li key={skills.name}>
-          <span style={{ width: skills.level }} className={className}></span>
-          <em>{skills.name}</em>
-        </li>
       );
     });
   }
@@ -60,27 +50,8 @@ function Resume(props) {
             <span>Work</span>
           </h1>
         </div>
-
         <div className="nine columns main-col">{work}</div>
-      </div>
-
-      <div className="row skill">
-        <div className="three columns header-col">
-          <h1>
-            <span>Skills</span>
-          </h1>
-        </div>
-
-        <div className="nine columns main-col">
-          <p>{skillmessage}</p>
-
-          <div className="bars">
-            <ul className="skills">{skills}</ul>
-          </div>
-        </div>
       </div>
     </section>
   );
 }
-
-export default Resume;
