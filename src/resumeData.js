@@ -6,9 +6,9 @@ export const resumeData = [
       description:
         "with a background of two years of WorPress design (Elementor), jumping to true javascript development (React, Node)",
       image: "profilepic.jpg",
-      bio: "I'm an enthusiast of the free (as in freedom) software movement, my journey on web development started with WordPress (GPL Licensed) installing themes, customizing with html and css, plugins and a little bit of PHP code, today I learn and practice from mastering basics (HTML, CSS, Javascript, Algorithms and Data Structures) and engage using ReactJS and NodeJS as prime Stack, I'm preparing for get the best job that kickstart my carrer as a sucessfull developer, sharp skills and learn something new everyday.",
+      bio: "I'm an enthusiast of the free (as in freedom) software movement, my journey on web development started with WordPress (GPL Licensed) installing themes, customizing with html and css, plugins and a little bit of PHP code, today I learn and practice from mastering basics (HTML, CSS, Javascript, Algorithms and Data Structures) and engage using React and Node as prime Stack, I'm preparing for get the best job that kickstart my carrer as a successful developer, sharp skills and learn something new everyday.",
       contactmessage:
-        "I can help you in Frontend(React) and Backend(NodeJS) web development, contact me ASAP, for shure I'm on something",
+        "I can help you in Frontend(React) and Backend(Node) web development, contact me ASAP, for shure I'm on something",
       email: "hectorsebastiantrejoluna@gmail.com",
       phone: "+52 1 9985 56 6819",
       address: {
