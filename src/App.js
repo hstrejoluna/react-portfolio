@@ -8,7 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
 
-class App extends Component {
+export default function App () {
 
   constructor(props){
     super(props);
@@ -40,7 +40,7 @@ class App extends Component {
     this.getResumeData();
   }
 
-  render() {
+  
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
@@ -50,7 +50,6 @@ class App extends Component {
         <Footer data={this.state.resumeData.main}/>
       </div>
     );
-  }
+  
 }
 
-export default App;
