@@ -401,7 +401,7 @@ ul#nav li.current a { color: #F06000; }
 	transition: all 0.8s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-   display: flex;
+   display: block;
    cursor: pointer;
 }
 
