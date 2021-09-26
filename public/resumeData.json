@@ -41,7 +41,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Skills",
     "education": [
       {
         "school": "Universidad del Caribe",
@@ -65,36 +64,6 @@
         "title": "WordPress Web Developer and IT Assistant ",
         "years": "nov 2019 – april 2020",
         "description": "IT Assistant \n- Intranet Network Configuration, Windows Server, Email Server setting up.• Printers setup and support.• Ticket resolution (i.e. Problems with hardware, software ). WordPress Based Web Development:• Taking Requirements .• Hosting Administration (Billing, Support, Setting Up).• FTP Server Administrator.• MySQL Database Administrator, PhpMyAdmin.• FullStack Web Development  (php, javascript, html, css.) • ICustom Plugin Development, license administrator, Theme Customization. - Managment of analytics tools ( Google Analytics, Facebook Pixel, and more)"
-      }
-    ],
-    "skills": [
-      {
-        "name": "Git",
-        "level": "90%"
-      },
-      {
-        "name": "BASH",
-        "level": "90%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "75%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "NodeJS",
-        "level": "80%"
-      },
-      {
-        "name": "Express",
-        "level": "80%"
       }
     ]
   },
@@ -184,7 +153,6 @@
         "image": "p14.png",
         "url": "https://pensive-lichterman-42b193.netlify.app/"
       }
-     
     ]
   }
 }
