@@ -1,8 +1,8 @@
 import React from "react";
 
-export default function Resume(props) {
-  if (props.data) {
-    var education = props.data.education.map(function (education) {
+const Resume = ({ data }) => {
+  if (data) {
+    var education = data.education.map(function (education) {
       return (
         <div key={education.school}>
           <h3>{education.school}</h3>
@@ -14,7 +14,7 @@ export default function Resume(props) {
         </div>
       );
     });
-    var work = props.data.work.map(function (work) {
+    var work = data.work.map(function (work) {
       return (
         <div key={work.company}>
           <h3>{work.company}</h3>
@@ -54,4 +54,6 @@ export default function Resume(props) {
       </div>
     </section>
   );
-}
+};
+
+export default Resume;

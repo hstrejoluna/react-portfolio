@@ -1,19 +1,19 @@
 import React from 'react';
 
-const About = (props) => {
+const About = ({data}) => {
 
 
-    if(props.data){
-      var name = props.data.name;
-      var profilepic= "images/"+props.data.image;
-      var bio = props.data.bio;
-      var street = props.data.address.street;
-      var city = props.data.address.city;
-      var state = props.data.address.state;
-      var zip = props.data.address.zip;
-      var phone= props.data.phone;
-      var email = props.data.email;
-      var resumeDownload = props.data.resumedownload;
+    if(data){
+      var name = data.name;
+      var profilepic= "images/"+data.image;
+      var bio = data.bio;
+      var street = data.address.street;
+      var city = data.address.city;
+      var state = data.address.state;
+      var zip = data.address.zip;
+      var phone= data.phone;
+      var email = data.email;
+      var resumeDownload = data.resumedownload;
     }
 
     return (
