@@ -8,26 +8,23 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
 
+
 export default function App () {
 
-  constructor(props){
-    super(props);
-    this.state = {
-      resumeData: {}
-    };
+ 
 
     ReactGA.initialize('UA-208609134-1');
     ReactGA.pageview(window.location.pathname);
 
-  }
-
+  
+/*
   getResumeData(){
     $.ajax({
       url:'/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
-        this.setState({resumeData: data});
+        ({resumeData: data});
       }.bind(this),
       error: function(xhr, status, err){
         console.log(err);
@@ -39,7 +36,7 @@ export default function App () {
   componentDidMount(){
     this.getResumeData();
   }
-
+*/
   
     return (
       <div className="App">
