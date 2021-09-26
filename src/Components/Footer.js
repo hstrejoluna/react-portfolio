@@ -18,6 +18,7 @@ const Footer = ({ data }) => {
       <div className="row">
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
+          <a href="http://u.fsf.org/16f"><img src="https://static.fsf.org/nosvn/images/badges/powered-by-gnu_yellow-bg.png" alt="Powered by GNU"/></a>
 
           <ul className="copyright">
             <li>&copy; Copyleft 2021 Hector Trejo Luna</li>

@@ -4,9 +4,9 @@ export const resumeData = [
       name: "Hector Trejo Luna",
       occupation: "Full-Stack Web Developer",
       description:
-        "One of my passions in life is about discover, learn and practice new web technologies, I wake up everyday thinking of a new code challenge to resolve, and I produce music and digital art too",
+        "with a background of two years of WorPress design (Elementor), jumping to true javascript development (React, Node)",
       image: "profilepic.jpg",
-      bio: "I like to code interesting software using high demanded technologies in the industry, I consider me as a Full Stack Web Developer, I had a background on WordPress, today I learn and practice from mastering basics (HTML, CSS, Javascript, Algorithms and Data Structures) and engage using ReactJS and NodeJS as prime Stack, I'm preparing for get the best job that kickstart my carrer as a sucessfull developer, sharp skills and learn something new everyday.",
+      bio: "I'm an enthusiast of the free (as in freedom) software movement, my journey on web development started with WordPress (GPL Licensed) installing themes, customizing with html and css, plugins and a little bit of PHP code, today I learn and practice from mastering basics (HTML, CSS, Javascript, Algorithms and Data Structures) and engage using ReactJS and NodeJS as prime Stack, I'm preparing for get the best job that kickstart my carrer as a sucessfull developer, sharp skills and learn something new everyday.",
       contactmessage:
         "I can help you in Frontend(React) and Backend(NodeJS) web development, contact me ASAP, for shure I'm on something",
       email: "hectorsebastiantrejoluna@gmail.com",
