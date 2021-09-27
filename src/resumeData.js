@@ -19,7 +19,7 @@ export const resumeData = [
       },
       website: "http://hstrejoluna.com.mx",
       resumedownload:
-        "https://drive.google.com/file/d/1ACR7Vt4S752CWKN7QYjYCVeH9qW6c-uB/view?usp=sharing",
+        "https://drive.google.com/file/d/1_o_cuJdAu1knTqxa0QnGY3bDanm28xle/view?usp=sharing",
       social: [
         {
           name: "facebook",
