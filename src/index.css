@@ -8,12 +8,40 @@
   animation-duration: 3s;
 }
 
-#ind-icon{
-    animation: heartBeat;
-    animation-duration: 5s;
-    animation-delay: 4s;
+#ind-icon {
+  animation: heartBeat;
+  animation-duration: 5s;
+  animation-delay: 4s;
 }
 
-#nav-wrap{
-    
+.working-at {
+  position: absolute;   
+  background-color: black;
+  width: 30vw;
+  padding: 3rem;
+  margin-top: -10rem;
+  margin-bottom: 10rem;
+  
+}
+
+.working-at h1{
+    color: white
+
+}
+.working-at p{
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 1024px){
+
+    .working-at {
+        position: relative;
+        width: 100vw;
+        margin-top: 0;
+        margin-bottom: 0;
+        
+    }
+    .working-at p{
+        font-size: 20px;
+    }
 }

@@ -1,4 +1,4 @@
-import React  from "react";
+import React from "react";
 import ReactGA from "react-ga";
 import "./App.css";
 import Header from "./Components/Header";
@@ -20,7 +20,12 @@ const App = () => {
             <Header data={data.main} />
             <About data={data.main} />
             <Resume data={data.resume} />
+            <div className="working-at">
+              <h1>💭 Now I'm Working at</h1>
+              <p>Modal component with Hooks for my portfolio</p>
+            </div>
             <Portfolio data={data.portfolio} />
+
             <Footer data={data.main} />
           </div>
         );

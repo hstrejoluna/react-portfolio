@@ -40,12 +40,13 @@
       width: 65%;
       margin: 12px auto;
    }
+   
    /* nav-wrap */
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
-
+   
 
    /* About Section
    ------------------------------------------------------------------- */
@@ -96,6 +97,7 @@
 ---------------------------------------------------------------------- */
 
 @media only screen and (max-width: 767px) {
+
 
    /* mobile navigation
    -------------------------------------------------------------------- */

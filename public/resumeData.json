@@ -1,5 +1,6 @@
 {
   "main": {
+    
     "name": "Hector Trejo Luna",
     "occupation": "Full-Stack Web Developer",
     "description": "One of my passions in life is about discover, learn and practice new web technologies, I wake up everyday thinking of a new code challenge to resolve, and I produce music and digital art too",
@@ -18,22 +19,26 @@
     "resumedownload": "https://drive.google.com/file/d/1ACR7Vt4S752CWKN7QYjYCVeH9qW6c-uB/view?usp=sharing",
     "social": [
       {
+        "key": 1,
         "name": "facebook",
         "url": "https://www.facebook.com/hstrejoluna",
         "className": "fa fa-facebook"
       },
 
       {
+        "key": 2,
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/hstrejoluna/",
         "className": "fa fa-linkedin"
       },
       {
+        "key": 3,
         "name": "instagram",
         "url": "https://www.instagram.com/hstrejoluna/",
         "className": "fa fa-instagram"
       },
       {
+        "key": 4,
         "name": "github",
         "url": "https://github.com/hstrejoluna/",
         "className": "fa fa-github"
@@ -43,23 +48,27 @@
   "resume": {
     "education": [
       {
+        "key": 1,
         "school": "Universidad del Caribe",
         "degree": "Organizational Intelligence and Data Enginnering",
         "graduated": "Non-Graduated"
       },
       {
+        "key": 2,
         "school": "CECyTE I Cancun",
         "degree": "Technician Support and Maintenance of Computer Equipment"
       }
     ],
     "work": [
       {
+        "key": 1,
         "company": "Kekhol Inmobiliaria",
         "title": "WordPress Web Developer and IT Assistant ",
         "years": "may 2020 – march 2021",
         "description": "IT Assistant \n- Intranet Network Configuration, Windows Server, Email Server setting up.• Printers setup and support.• Ticket resolution (i.e. Problems with hardware, software ). WordPress Based Web Development:• Taking Requirements .• Hosting Administration (Billing, Support, Setting Up).• FTP Server Administrator.• MySQL Database Administrator, PhpMyAdmin.• FullStack Web Development  (php, javascript, html, css.) • ICustom Plugin Development, license administrator, Theme Customization. - Managment of analytics tools ( Google Analytics, Facebook Pixel, and more)"
       },
       {
+        "key": 2,
         "company": "Grupo DEPI del Caribe",
         "title": "WordPress Web Developer and IT Assistant ",
         "years": "nov 2019 – april 2020",
@@ -70,84 +79,98 @@
   "portfolio": {
     "projects": [
       {
+        "key": 1,
         "title": "Kekhol Inmobiliaria",
         "category": "Install and Config theme and plugins, technical SEO",
         "image": "p4.png",
         "url": "https://www.kekhol.com"
       },
       {
+        "key": 2,
         "title": "Krystal Beach Club",
         "category": "Install and Config theme and plugins, technical SEO",
         "image": "p5.png",
         "url": "http://krystalbeach.club"
       },
       {
+        "key": 3,
         "title": "Arrivee Lagoon",
         "category": "Install and Config plugins, technical SEO, maintenance",
         "image": "p15.png",
         "url": "https://www.arriveebacalar.com/"
       },
       {
+        "key": 4,
         "title": "College Support FR",
         "category": "Fixing strings translations",
         "image": "p2.png",
         "url": "http://collegesupportpt.org/fr/"
       },
       {
+        "key": 5,
         "title": "ESL Digital",
         "category": "Moodle Installation and customization, maintenance",
         "image": "p13.png",
         "url": "http://www.esldigital.com/info/"
       },
       {
+        "key": 6,
         "title": "The Future Company.ca",
         "category": "Theme install, custom CSS.",
         "image": "p1.png",
         "url": "http://thefuturecompany.ca"
       },
       {
+        "key": 7,
         "title": "Digitraductor",
         "category": "Database feeding, cleaning json with python queries",
         "image": "p16.png",
         "url": "http://thefuturecompany.ca"
       },
       {
+        "key": 8,
         "title": "Uptask",
         "category": "Database feeding, cleaning json with python queries",
         "image": "p20.png",
         "url": "https://www.linkedin.com/posts/hstrejoluna_javascript-nodejs-express-activity-6847009281351536640-9hKa"
       },
       {
+        "key": 9,
         "title": "Hotel Gatsby",
         "category": "Discovering GatsbyJS and DatoCMS",
         "image": "p22.png",
         "url": "https://hotelgatsbyhstrejoluna.netlify.app/"
       },
       {
+        "key": 10,
         "title": "Budget Control",
         "category": "Budget control, see spendings and remaining budget",
         "image": "p21.png",
         "url": "https://goofy-mccarthy-70ee2a.netlify.app/"
       },
       {
+        "key": 11,
         "title": "Crypto Price",
         "category": "Fetch API and shows prices of crypto",
         "image": "p10.png",
         "url": "https://admiring-bassi-77534c.netlify.app"
       },
       {
+        "key": 12,
         "title": "Nexter",
         "category": "Discovering the power of css grid",
         "image": "p11.png",
         "url": "https://affectionate-engelbart-c56758.netlify.app/"
       },
       {
+        "key": 13,
         "title": "Trillo",
         "category": "Discovering the power of Flexbox",
         "image": "p12.png",
         "url": "https://wizardly-kare-619f6f.netlify.app/"
       },
       {
+        "key": 14,
         "title": "Natours",
         "category": "Using SASS and basic CSS/HTML",
         "image": "p14.png",
