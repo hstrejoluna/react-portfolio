@@ -1,7 +1,7 @@
 import * as React from "react";
 import { useState } from "react";
 
-//*** Me puedo traer la misma data {title, projects, etc} a otro componente en el link con {data}**/
+//*** Me puedo traer la misma data {title, projects, etc} div otro componente en el link con {data}**/
 const Portfolio = ({ data }) => {
   //State for modal
   const [modal, setModal] = useState(false);
@@ -12,7 +12,7 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <a onClick={() => Toggle()} title={projects.title}>
+            <div onClick={() => Toggle()} title={projects.title}>
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
@@ -23,7 +23,7 @@ const Portfolio = ({ data }) => {
               <div className="link-icon">
                 <i className="fa fa-link"></i>
               </div>
-            </a>
+            </div>
           </div>
         </div>
       );
