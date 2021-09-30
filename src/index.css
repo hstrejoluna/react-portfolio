@@ -15,8 +15,8 @@
 }
 
 .working-at {
-  position: absolute;   
-  background-color: black;
+  position: absolute;
+  background:linear-gradient(0deg, rgba(8, 0, 51, 0.3), rgba(0, 0, 0, 0.746)), url(https://media.giphy.com/media/yAGIvCiwPJn5C/giphy.gif?cid=ecf05e47lgvq9f0qbx1x540zmhvnzvd82jjdjbc8zu1vnkxh&rid=giphy.gif&ct=g);   /* Black color with 50% alpha/opacity */
   width: 30vw;
   padding: 3rem;
   margin-top: -10rem;
@@ -30,6 +30,7 @@
 }
 .working-at p{
     font-size: 20px;
+    color: skyblue;
 }
 
 @media only screen and (max-width: 1024px){
@@ -43,5 +44,6 @@
     }
     .working-at p{
         font-size: 20px;
+        
     }
 }

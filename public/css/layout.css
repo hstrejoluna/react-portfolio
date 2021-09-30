@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background:linear-gradient(0deg, rgba(0, 0, 0, 0.993), rgba(0, 0, 0, 0.342)), url(https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
