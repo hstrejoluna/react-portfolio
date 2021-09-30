@@ -1,0 +1,19 @@
+#home {
+  animation: backInUp;
+  animation-duration: 1s;
+}
+
+.social-icons-header {
+  animation: backInUp;
+  animation-duration: 3s;
+}
+
+#ind-icon{
+    animation: heartBeat;
+    animation-duration: 5s;
+    animation-delay: 4s;
+}
+
+#nav-wrap{
+    
+}

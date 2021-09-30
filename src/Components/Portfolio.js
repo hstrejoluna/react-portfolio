@@ -1,5 +1,5 @@
 import React from "react";
-
+//*** Me puedo traer la misma data {title, projects, etc} a otro componente en el link con {data}**/
 const Portfolio = ({ data }) => {
   if (data) {
     var projects = data.projects.map(function (projects) {
@@ -11,7 +11,7 @@ const Portfolio = ({ data }) => {
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>{projects.title}</h5>
+                  <h5>{projects.title}</h5>   
                   <p>{projects.category}</p>
                 </div>
               </div>

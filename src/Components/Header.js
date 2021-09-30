@@ -1,5 +1,8 @@
 import React from "react";
 
+
+
+
 const Header = ({data}) => {
   if (data) {
     var name = data.name;
@@ -8,9 +11,9 @@ const Header = ({data}) => {
     var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
-        <li key={network.name}>
+        <li className ="social-icons-header" key={network.name}>
           <a href={network.url}>
-            <i className={network.className}></i>
+            <i id="ind-icon" className={network.className}></i>
           </a>
         </li>
       );
@@ -52,7 +55,7 @@ const Header = ({data}) => {
       </nav>
 
       <div className="row banner">
-        <div className="banner-text">
+        <div className="banner-text animate__animated animate__pulse animate__delay-2s">
           <h1 className="responsive-headline">I'm {name}.</h1>
           <h3>
             I'm a {city} based <span>{occupation}</span>. {description}.
