@@ -158,10 +158,6 @@ pre {
   word-wrap: break-word;
 }
 
-blockquote,
-q {
-  quotes: &#8220 &#8220;
-}
 
 blockquote:before,
 blockquote:after,
@@ -487,10 +483,7 @@ li {
   line-height: 18px;
   margin-bottom: 12px;
 }
-ul.large li {
-}
-li p {
-}
+
 
 /* definition list */
 dl {
@@ -583,9 +576,6 @@ dd {
 .pagination .inactive:hover {
   background-color: #e6e8eb;
   color: #a9adb2;
-}
-.pagination .prev,
-.pagination .next {
 }
 
 /*  5. Images  --------------------------------------------------------- */

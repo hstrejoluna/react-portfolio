@@ -1,18 +1,26 @@
 import * as React from "react";
 import { useState } from "react";
+import Modal from "./Modal";
 
 //*** Me puedo traer la misma data {title, projects, etc} div otro componente en el link con {data}**/
 const Portfolio = ({ data }) => {
   //State for modal
   const [modal, setModal] = useState(false);
+  const [modalData, setModalData] = useState({});
+
+  const openModal = (project) => {
+    setModal(true);
+    setModalData(project);
+  };
   const Toggle = () => setModal(!modal);
   if (data) {
     var projects = data.projects.map(function (projects) {
       var projectImage = "images/portfolio/" + projects.image;
+
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <div onClick={() => Toggle()} title={projects.title}>
+            <div onClick={() => openModal(projects)} title={projects.title}>
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
@@ -29,6 +37,7 @@ const Portfolio = ({ data }) => {
       );
     });
   }
+  var projectImage = "images/portfolio/" + modalData.image;
 
   return (
     <section id="portfolio">
@@ -42,6 +51,17 @@ const Portfolio = ({ data }) => {
           >
             {projects}
           </div>
+          <Modal show={modal} title={modalData.title} close={Toggle}>
+            <section className="modal__columnimg">
+              <img alt="project-image" src={projectImage}></img>
+              <p>{modalData.description}</p>
+            </section>
+            <section className="modal__columndesc">
+              <h2>What I learned?</h2>
+            </section>
+
+            {modalData.category}
+          </Modal>
         </div>
       </div>
     </section>
