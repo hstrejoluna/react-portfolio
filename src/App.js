@@ -22,7 +22,7 @@ const App = () => {
             <Resume data={data.resume} />
             <div className="working-at">
               <h1>💭 Now I'm Working at</h1>
-              <p>Modal component with Hooks for my portfolio</p>
+              <p>Dev.to Frontend Challenge #1</p>
             </div>
             <Portfolio data={data.portfolio} />
 
