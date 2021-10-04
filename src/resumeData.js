@@ -145,56 +145,56 @@ export const resumeData = [
           title: "Digitraductor",
           category: "Database feeding, cleaning json with python queries",
           image: "p16.png",
-          url: "http://thefuturecompany.ca",
+          url: "https://m.apkpure.com/es/digitraductor/com.Digitraductor.Digitraductor",
           industry: "Social Assistance",
           location: "Cancun, MX",
-          hardskills:"Python, JSON, Web Scraping ",
+          hardskills:"Python, JSON, Web Scraping, Bourne-Again Shell",
           softskills:"teamwork, time management",
-          description:" "
+          description:"This was a project with a university friend, my task was to scraping content to website, format to JSON and upload to the server, all with Python and BASH"
         },
         {
           title: "Uptask",
-          category: "Database feeding, cleaning json with python queries",
+          category: "Personal Project Using Nodejs, Express and Pug",
           image: "p20.png",
           url: "https://www.linkedin.com/posts/hstrejoluna_javascript-nodejs-express-activity-6847009281351536640-9hKa",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Project Management",
+          location: "Cancun, MX",
+          hardskills:"NodeJS, Express, Sequelize, MariaDB (MySQL), Pug ",
+          softskills:"Time management",
+          description:"Personal project for practice NodeJS using model view controller architecture"
         },
         {
           title: "Hotel Gatsby",
           category: "Discovering GatsbyJS and DatoCMS",
           image: "p22.png",
           url: "https://hotelgatsbyhstrejoluna.netlify.app/",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills:"Gatsby, React, javascript",
+          softskills:"time management",
+          description:"Practicing and discovering the power of a headless cms in combination with GatsbyJS. "
         },
         {
           title: "Budget Control",
           category: "Budget control, see spendings and remaining budget",
           image: "p21.png",
           url: "https://goofy-mccarthy-70ee2a.netlify.app/",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills:"ReactJS, React Hooks",
+          softskills:"time management",
+          description:"Practicing reat with react hooks and forms"
         },
         {
           title: "Crypto Price",
           category: "Fetch API and shows prices of crypto",
           image: "p10.png",
           url: "https://admiring-bassi-77534c.netlify.app",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills:"React, API calls",
+          softskills:"Time Management",
+          description:"Practicing for learn a method for request API resources directly from ReactJS "
         },
         {
           title: "Nexter",
@@ -203,9 +203,9 @@ export const resumeData = [
           url: "https://affectionate-engelbart-c56758.netlify.app/",
           industry: "Real Estate",
           location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          hardskills:"CSS, CSS Grid, HTML5 ",
+          softskills:"Time Management",
+          description:" "
         },
         {
           title: "Trillo",
