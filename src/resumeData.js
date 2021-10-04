@@ -103,54 +103,54 @@ export const resumeData = [
           image: "p15.png",
           url: "https://www.arriveebacalar.com/",
           industry: "Real Estate",
-          location: "Playa del Carmen, MX",
+          location: "Cancun, MX",
           hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          softskills:"teamwork, time management, effective communication with non-tech people",
+          description:"This was my first full time job with WordPress, My first task was receive this finished website and finish an under development CRM, with meets with a web agency that had worked with they before I get the job, I do some frontend edits, and fix the phone of the owner son, worked with a team of graphic designers and community managers"
         },
         {
           title: "College Support FR",
           category: "Fixing strings translations",
           image: "p2.png",
           url: "http://collegesupportpt.org/fr/",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Education",
+          location: "Remote (team from canada)",
+          hardskills:"WordPress, phpMySql, MySQL",
+          softskills:"teamwork, communication, timing",
+          description:"This was a freelance job, the main task was fix some string typos, my method was change directly from the database. "
         },
         {
           title: "ESL Digital",
           category: "Moodle Installation and customization, maintenance",
           image: "p13.png",
           url: "http://www.esldigital.com/info/",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Education",
+          location: "Cancún MX",
+          hardskills:"Moodle, php, css, html5",
+          softskills:"teamwork, time management",
+          description:"This was a project with a university friend, my responsibility was to choose the best fit for the requeriments, I choosed the Moodle platform, I managed the installation, the settings and customization, and config of roles for teachers, students, and permissions "
         },
         {
           title: "The Future Company.ca",
           category: "Theme install, custom CSS.",
           image: "p1.png",
           url: "http://thefuturecompany.ca",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Media Agency",
+          location: "Remote (Canada)",
+          hardskills:"WordPress, CSS",
+          softskills:"teamwork, time management, english",
+          description:"The main task was install the theme, and custom routing and views according to the client requirements, i do some custom CSS for fit the request"
         },
         {
           title: "Digitraductor",
           category: "Database feeding, cleaning json with python queries",
           image: "p16.png",
           url: "http://thefuturecompany.ca",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Social Assistance",
+          location: "Cancun, MX",
+          hardskills:"Python, JSON, Web Scraping ",
+          softskills:"teamwork, time management",
+          description:" "
         },
         {
           title: "Uptask",
