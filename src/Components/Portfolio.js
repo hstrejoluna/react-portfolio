@@ -53,7 +53,7 @@ const Portfolio = ({ data }) => {
           </div>
           <Modal show={modal} title={modalData.title} close={Toggle}>
             <section className="modal__columnimg">
-              <img alt="project-image" src={projectImage}></img>
+              <img alt="project-hstrejoluna" src={projectImage}></img>
             </section>
 
             <section className="modal__columndesc">
