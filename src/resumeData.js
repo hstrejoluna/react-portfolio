@@ -106,7 +106,7 @@ export const resumeData = [
           location: "Cancun, MX",
           hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
           softskills:"teamwork, time management, effective communication with non-tech people",
-          description:"This was my first full time job with WordPress, My first task was receive this finished website and finish an under development CRM, with meets with a web agency that had worked with they before I get the job, I do some frontend edits, and fix the phone of the owner son, worked with a team of graphic designers and community managers"
+          description:"This was my first full time job with WordPress, My first task was receive this finished website and finish an under development CRM, with meets with a web agency that had worked with they before I get the job, I do some frontend edits, and fix the owner's son's phone, worked with a team of graphic designers and community managers"
         },
         {
           title: "College Support FR",
