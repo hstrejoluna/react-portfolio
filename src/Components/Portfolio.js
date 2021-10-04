@@ -54,13 +54,22 @@ const Portfolio = ({ data }) => {
           <Modal show={modal} title={modalData.title} close={Toggle}>
             <section className="modal__columnimg">
               <img alt="project-image" src={projectImage}></img>
-              <p>{modalData.description}</p>
-            </section>
-            <section className="modal__columndesc">
-              <h2>What I learned?</h2>
             </section>
 
-            {modalData.category}
+            <section className="modal__columndesc">
+              <h2>What I learned?</h2>
+              <p>{modalData.description}</p>
+            </section>
+            <section className="modal__columnskills">
+              <h2>Hard Skills</h2>
+              <p>{modalData.hardskills}</p>
+              <h2>Soft Skills</h2>
+              <p>{modalData.softskills}</p>
+            </section>
+
+           |<a href={modalData.url}>See Project on wild</a>  | 
+            {modalData.location}  |
+            {modalData.industry}  | 
           </Modal>
         </div>
       </div>
