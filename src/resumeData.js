@@ -202,32 +202,32 @@ export const resumeData = [
           image: "p11.png",
           url: "https://affectionate-engelbart-c56758.netlify.app/",
           industry: "Real Estate",
-          location: "Playa del Carmen, MX",
+          location: "Cancun",
           hardskills:"CSS, CSS Grid, HTML5 ",
           softskills:"Time Management",
-          description:" "
+          description:"Learning CSS Grid with a static website "
         },
         {
           title: "Trillo",
           category: "Discovering the power of Flexbox",
           image: "p12.png",
           url: "https://wizardly-kare-619f6f.netlify.app/",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills:"CSS Flexbox, HTML5",
+          softskills:"time management",
+          description:"Project for discover the power of CSS Flexbox "
         },
         {
           title: "Natours",
           category: "Using SASS and basic CSS/HTML",
           image: "p14.png",
           url: "https://pensive-lichterman-42b193.netlify.app/",
-          industry: "Real Estate",
-          location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills:"CSS, SASS, HTML5",
           softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team with a outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          description:"Project using only the bare bones of CSS with SASS, without Flexbox and Without Grid. "
         },
       ],
     },
