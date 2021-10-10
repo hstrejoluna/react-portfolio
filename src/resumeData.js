@@ -76,6 +76,17 @@ export const resumeData = [
     portfolio: {
       projects: [
         {
+          title: "Frontend Challenge",
+          category: "Frontend Challenge",
+          image: "p25.png",
+          url: "hhttps://frontendchallengehstrejoluna.netlify.app/",
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills: "React, CSS Grid, Figma",
+          softskills: "Time Management, Attention to Detail",
+          description:"Frontend Challenge from Dev.to, I select React and CSS with Grid for design every single component just for add more difficulty and review my previous learning on it, I used a figma design for reference",
+        },
+        {
           title: "Cheems is Calling You App",
           category: "App on Google Play",
           image: "p24.png",
