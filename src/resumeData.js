@@ -76,15 +76,29 @@ export const resumeData = [
     portfolio: {
       projects: [
         {
+          title: "Cheems is Calling You App",
+          category: "App on Google Play",
+          image: "p24.png",
+          url: "https://play.google.com/store/apps/details?id=hstrejoluna.com.mx.cheemscallpov",
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills: "React, Hooks, Capacitorjs, Android",
+          softskills: "Time Management",
+          description:
+            "Developed a web app of cheems, and then ported to Android with Capacitorjs",
+        },
+        {
           title: "kekhol.com Website",
           category: "Install and Config theme and plugins, technical SEO",
           image: "p4.png",
           url: "https://www.kekhol.com",
           industry: "Real Estate",
           location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO,  ",
-          softskills:"teamwork, time management, effective communication with non-tech people, english, adress virtual meetings",
-          description:"My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team from outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. "
+          hardskills: "WordPress, HTML5, CSS, Technical SEO,  ",
+          softskills:
+            "teamwork, time management, effective communication with non-tech people, english, adress virtual meetings",
+          description:
+            "My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team from outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. ",
         },
         {
           title: "Krystal Beach Club website",
@@ -93,9 +107,11 @@ export const resumeData = [
           url: "http://krystalbeach.club",
           industry: "Real Estate",
           location: "Playa del Carmen, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, PHP",
-          softskills:"teamwork, time management, effective communication with non-tech people, english, adress virtual meetings ",
-          description:"This is my last project with Kekhol Inmobiliaria: the plan was start the site with a backup (kekhol.com) and only change assets (images, videos, descriptions, etc.) in both sites managed two versions on english and spanish, I modified a plugin for detect if the users are coming from an English Spoken Countries for send them to the english version, else send them to the spanish version, another feature are the Google Analytics tracking and CRM connection modifying the HTML code, every step always be in coordination with the designer and the PM"
+          hardskills: "WordPress, HTML5, CSS, Technical SEO, PHP",
+          softskills:
+            "teamwork, time management, effective communication with non-tech people, english, adress virtual meetings ",
+          description:
+            "This is my last project with Kekhol Inmobiliaria: the plan was start the site with a backup (kekhol.com) and only change assets (images, videos, descriptions, etc.) in both sites managed two versions on english and spanish, I modified a plugin for detect if the users are coming from an English Spoken Countries for send them to the english version, else send them to the spanish version, another feature are the Google Analytics tracking and CRM connection modifying the HTML code, every step always be in coordination with the designer and the PM",
         },
         {
           title: "Arrivee Lagoon",
@@ -104,9 +120,12 @@ export const resumeData = [
           url: "https://www.arriveebacalar.com/",
           industry: "Real Estate",
           location: "Cancun, MX",
-          hardskills:"WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
-          softskills:"teamwork, time management, effective communication with non-tech people",
-          description:"This was my first full time job with WordPress, My first task was receive this finished website and finish an under development CRM, with meets with a web agency that had worked with they before I get the job, I do some frontend edits, and fix the owner's son's phone, worked with a team of graphic designers and community managers"
+          hardskills:
+            "WordPress, HTML5, CSS, Technical SEO, adress virtual meetings ",
+          softskills:
+            "teamwork, time management, effective communication with non-tech people",
+          description:
+            "This was my first full time job with WordPress, My first task was receive this finished website and finish an under development CRM, with meets with a web agency that had worked with they before I get the job, I do some frontend edits, and fix the owner's son's phone, worked with a team of graphic designers and community managers",
         },
         {
           title: "College Support FR",
@@ -115,9 +134,10 @@ export const resumeData = [
           url: "http://collegesupportpt.org/fr/",
           industry: "Education",
           location: "Remote (team from canada)",
-          hardskills:"WordPress, phpMySql, MySQL",
-          softskills:"teamwork, communication, timing",
-          description:"This was a freelance job, the main task was fix some string typos, my method was change directly from the database. "
+          hardskills: "WordPress, phpMySql, MySQL",
+          softskills: "teamwork, communication, timing",
+          description:
+            "This was a freelance job, the main task was fix some string typos, my method was change directly from the database. ",
         },
         {
           title: "ESL Digital",
@@ -126,9 +146,10 @@ export const resumeData = [
           url: "http://www.esldigital.com/info/",
           industry: "Education",
           location: "Cancún MX",
-          hardskills:"Moodle, php, css, html5",
-          softskills:"teamwork, time management",
-          description:"This was a project with a university friend, my responsibility was to choose the best fit for the requeriments, I choosed the Moodle platform, I managed the installation, the settings and customization, and config of roles for teachers, students, and permissions "
+          hardskills: "Moodle, php, css, html5",
+          softskills: "teamwork, time management",
+          description:
+            "This was a project with a university friend, my responsibility was to choose the best fit for the requeriments, I choosed the Moodle platform, I managed the installation, the settings and customization, and config of roles for teachers, students, and permissions ",
         },
         {
           title: "The Future Company.ca",
@@ -137,9 +158,10 @@ export const resumeData = [
           url: "http://thefuturecompany.ca",
           industry: "Media Agency",
           location: "Remote (Canada)",
-          hardskills:"WordPress, CSS",
-          softskills:"teamwork, time management, english",
-          description:"The main task was install the theme, and custom routing and views according to the client requirements, i do some custom CSS for fit the request"
+          hardskills: "WordPress, CSS",
+          softskills: "teamwork, time management, english",
+          description:
+            "The main task was install the theme, and custom routing and views according to the client requirements, i do some custom CSS for fit the request",
         },
         {
           title: "Digitraductor",
@@ -148,9 +170,10 @@ export const resumeData = [
           url: "https://m.apkpure.com/es/digitraductor/com.Digitraductor.Digitraductor",
           industry: "Social Assistance",
           location: "Cancun, MX",
-          hardskills:"Python, JSON, Web Scraping, Bourne-Again Shell",
-          softskills:"teamwork, time management",
-          description:"This was a project with a university friend, my task was to scraping content to website, format to JSON and upload to the server, all with Python and BASH"
+          hardskills: "Python, JSON, Web Scraping, Bourne-Again Shell",
+          softskills: "teamwork, time management",
+          description:
+            "This was a project with a university friend, my task was to scraping content to website, format to JSON and upload to the server, all with Python and BASH",
         },
         {
           title: "Uptask",
@@ -159,9 +182,10 @@ export const resumeData = [
           url: "https://www.linkedin.com/posts/hstrejoluna_javascript-nodejs-express-activity-6847009281351536640-9hKa",
           industry: "Project Management",
           location: "Cancun, MX",
-          hardskills:"NodeJS, Express, Sequelize, MariaDB (MySQL), Pug ",
-          softskills:"Time management",
-          description:"Personal project for practice NodeJS using model view controller architecture"
+          hardskills: "NodeJS, Express, Sequelize, MariaDB (MySQL), Pug ",
+          softskills: "Time management",
+          description:
+            "Personal project for practice NodeJS using model view controller architecture",
         },
         {
           title: "Hotel Gatsby",
@@ -170,9 +194,10 @@ export const resumeData = [
           url: "https://hotelgatsbyhstrejoluna.netlify.app/",
           industry: "Personal Project",
           location: "Cancun MX",
-          hardskills:"Gatsby, React, javascript",
-          softskills:"time management",
-          description:"Practicing and discovering the power of a headless cms in combination with GatsbyJS. "
+          hardskills: "Gatsby, React, javascript",
+          softskills: "time management",
+          description:
+            "Practicing and discovering the power of a headless cms in combination with GatsbyJS. ",
         },
         {
           title: "Budget Control",
@@ -181,9 +206,9 @@ export const resumeData = [
           url: "https://goofy-mccarthy-70ee2a.netlify.app/",
           industry: "Personal Project",
           location: "Cancun MX",
-          hardskills:"ReactJS, React Hooks",
-          softskills:"time management",
-          description:"Practicing reat with react hooks and forms"
+          hardskills: "ReactJS, React Hooks",
+          softskills: "time management",
+          description: "Practicing reat with react hooks and forms",
         },
         {
           title: "Crypto Price",
@@ -192,9 +217,22 @@ export const resumeData = [
           url: "https://admiring-bassi-77534c.netlify.app",
           industry: "Personal Project",
           location: "Cancun MX",
-          hardskills:"React, API calls",
-          softskills:"Time Management",
-          description:"Practicing for learn a method for request API resources directly from ReactJS "
+          hardskills: "React, API calls",
+          softskills: "Time Management",
+          description:
+            "Practicing for learn a method for request API resources directly from ReactJS ",
+        },
+        {
+          title: "Car Insurance Quote",
+          category: "Form with calculation of prices",
+          image: "p23.png",
+          url: "https://hstrejolunacarinsurance.netlify.app/",
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills: "React, Hooks",
+          softskills: "Time Management",
+          description:
+            "Practicing form data calculation depending on parameters, useful in Ecommerce ",
         },
         {
           title: "Nexter",
@@ -203,9 +241,9 @@ export const resumeData = [
           url: "https://affectionate-engelbart-c56758.netlify.app/",
           industry: "Real Estate",
           location: "Cancun",
-          hardskills:"CSS, CSS Grid, HTML5 ",
-          softskills:"Time Management",
-          description:"Learning CSS Grid with a static website "
+          hardskills: "CSS, CSS Grid, HTML5 ",
+          softskills: "Time Management",
+          description: "Learning CSS Grid with a static website ",
         },
         {
           title: "Trillo",
@@ -214,9 +252,9 @@ export const resumeData = [
           url: "https://wizardly-kare-619f6f.netlify.app/",
           industry: "Personal Project",
           location: "Cancun MX",
-          hardskills:"CSS Flexbox, HTML5",
-          softskills:"time management",
-          description:"Project for discover the power of CSS Flexbox "
+          hardskills: "CSS Flexbox, HTML5",
+          softskills: "time management",
+          description: "Project for discover the power of CSS Flexbox ",
         },
         {
           title: "Natours",
@@ -225,9 +263,11 @@ export const resumeData = [
           url: "https://pensive-lichterman-42b193.netlify.app/",
           industry: "Personal Project",
           location: "Cancun MX",
-          hardskills:"CSS, SASS, HTML5",
-          softskills:"teamwork, time management, effective communication with non-tech people, english",
-          description:"Project using only the bare bones of CSS with SASS, without Flexbox and Without Grid. "
+          hardskills: "CSS, SASS, HTML5",
+          softskills:
+            "teamwork, time management, effective communication with non-tech people, english",
+          description:
+            "Project using only the bare bones of CSS with SASS, without Flexbox and Without Grid. ",
         },
       ],
     },
