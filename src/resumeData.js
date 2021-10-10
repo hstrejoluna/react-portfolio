@@ -79,7 +79,7 @@ export const resumeData = [
           title: "Frontend Challenge",
           category: "Frontend Challenge",
           image: "p25.png",
-          url: "hhttps://frontendchallengehstrejoluna.netlify.app/",
+          url: "https://frontendchallengehstrejoluna.netlify.app/",
           industry: "Personal Project",
           location: "Cancun MX",
           hardskills: "React, CSS Grid, Figma",
