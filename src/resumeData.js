@@ -84,7 +84,8 @@ export const resumeData = [
           location: "Cancun MX",
           hardskills: "React, CSS Grid, Figma",
           softskills: "Time Management, Attention to Detail",
-          description:"Frontend Challenge from Dev.to, I select React and CSS with Grid for design every single component just for add more difficulty and review my previous learning on it, I used a figma design for reference",
+          description:
+            "Frontend Challenge from Dev.to, I select React and CSS with Grid for design every single component just for add more difficulty and review my previous learning on it, I used a figma design for reference",
         },
         {
           title: "Cheems is Calling You App",
@@ -244,6 +245,18 @@ export const resumeData = [
           softskills: "Time Management",
           description:
             "Practicing form data calculation depending on parameters, useful in Ecommerce ",
+        },
+        {
+          title: "Synthwave Drumkit",
+          category: "Drumkit simulator on VanillaJS",
+          image: "p26.png",
+          url: "https://hstrejoluna.github.io/DrumkitHSTrejoLuna/",
+          industry: "Personal Project",
+          location: "Cancun MX",
+          hardskills: "VanillaJS, HTML5, CSS3",
+          softskills: "Time Management",
+          description:
+            "a simple but efficient web application developed with pure Vanilla Javascript",
         },
         {
           title: "Nexter",
