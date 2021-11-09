@@ -1,9 +1,22 @@
 # This is my portfolio
 
+⚛Hello there, in 2021 I've decided for jump to full stack web development (MongoDB, Express, React and Node Stack )
 
-'m Hector Trejo Luna.
-I'm a Full-Stack Web Developer. with a background of two years of WorPress design (Elementor), jumping to true javascript development (React, Node).
+📱🤖 Today I'm actively releasing casual or entertainment apps on Google Play:
+https://play.google.com/store/apps/dev?id=8708027981736959712
 
+📽 if you have time. watch my uncanny portfolio of random projects:
+https://hstrejoluna.com.mx
 
+👋 I had a background of 2 years of WordPress "Web Master" doing tasks like installing themes, customizing bits of HTML and CSS, edit plugins, manage CPanel and these things, manage db backups... I was the Softaculous App Installer guy.
 
-'m an enthusiast of the free (as in freedom) software movement, my journey on web development started with WordPress (GPL Licensed) installing themes, customizing with html and css, plugins and a little bit of PHP code, today I learn and practice from mastering basics (HTML, CSS, Javascript, Algorithms and Data Structures) and engage using React and Node as prime Stack, I'm preparing for get the best job that kickstart my carrer as a successful developer, sharp skills and learn something new everyday.
+🤓I was one active founder of the dev community called DevHood, participating in many activities as one of the main ambassadors, like TechFest Escarsega 2019, and FliSoL 2019.
+
+🖥🖥🖥🖥 before that, I had a Technical Career on Support and Maintenance of Computer Equipment, working as a freelance technician installing Office, mentoring clients, and optimizing the most slowest laptops on the world.
+
+🥎Hobbies:
+
+🎸 I produce music in convergence with my obsession for the Free Software Movement, I only produce music with free software and you can see my releases on the main platforms, as on bandcamp:
+hstrejoluna.bandcamp.com
+
+📣 I'm trying to promote the Free Software Movement and fight misinformation about it.
