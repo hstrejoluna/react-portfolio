@@ -12,10 +12,10 @@ export const resumeData = [
       email: "hectorsebastiantrejoluna@gmail.com",
       phone: "+52 1 9985 56 6819",
       address: {
-        street: "r 91 mz 80 52 pte",
+        street: "52",
         city: "Cancun",
         state: "Quintana Roo",
-        zip: "77516",
+        zip: "775XX",
       },
       website: "http://hstrejoluna.com.mx",
       resumedownload:
