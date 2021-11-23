@@ -113,6 +113,19 @@ export const resumeData = [
             "My role in this job was more like a webmaster or consultant than a WordPress Developer, I was the entire IT Department for the first six months! I managed tasks from WordPress hosting to Social Media Accounts, and solving printer issues, next when pandemic situation turns worst, I've worked from home and the company developed a full IT Team from outsourcing team based on Canada, I was involved in Skype meetings for define the project calendar, deadlines, marketing plans, etc. ",
         },
         {
+          title: "Emperadores Mayas",
+          category: "Website design, admin, and long term SEO Plan",
+          image: "p27.png",
+          url: "https://emperadoresmayas.org",
+          industry: "Rehab Center",
+          location: "Cancún, MX",
+          hardskills: "WordPress, HTML5, CSS, Technical SEO,  ",
+          softskills:
+            "time management, effective communication with non-tech people",
+          description:
+            "Managed domain, host, emails and website design with Elementor and a little bit of CSS",
+        },
+        {
           title: "Krystal Beach Club website",
           category: "Install and Config theme and plugins, technical SEO",
           image: "p5.png",
