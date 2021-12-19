@@ -22,7 +22,7 @@ const App = () => {
             <Resume data={data.resume} />
             <div className="working-at">
               <h1>💭 Now I'm Working at</h1>
-              <p>DevJobs Platform Node</p>
+              <p>Sleeping Big Floppa App</p>
             </div>
             <Portfolio data={data.portfolio} />
 
