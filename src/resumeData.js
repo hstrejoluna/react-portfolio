@@ -88,6 +88,19 @@ export const resumeData = [
             "Frontend Challenge from Dev.to, I select React and CSS with Grid for design every single component just for add more difficulty and review my previous learning on it, I used a figma design for reference",
         },
         {
+          title: "DevJobs: Find your dream job",
+          category: "Backend Node MVC",
+          image: "p28.png",
+          url: "https://sleepy-caverns-08776.herokuapp.com/",
+          industry: "Side Project",
+          location: "Cancun MX",
+          hardskills: "Node, MongoDB, Mongoose, Express, Handlebars",
+          softskills:
+            "Time Management, Attention to Detail, Organizational Skills",
+          description:
+            "Devjobs is a platform for find your dream job at the best companies, I used Node, MongoDB, Mongoose, Express, Handlebars in a Model View Controller Architecture",
+        },
+        {
           title: "Cheems is Calling You App",
           category: "App on Google Play",
           image: "p24.png",
